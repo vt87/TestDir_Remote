@@ -1,3 +1,4 @@
 Type of Polymers
 1) Diblock copolymer
 2) Triblock copolymer
+3) Random copolymer
